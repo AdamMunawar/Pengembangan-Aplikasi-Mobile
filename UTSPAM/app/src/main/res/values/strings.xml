@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Jerseyku</string>
+    <string name="heroes_name">Jersey</string>
+    <string name="description">Keterangan</string>
+    <string-array name="data_name">
+        <item>Liverpool</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Liverpool Retro 90/91 </item>
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/liverpool</item>
+    </array>
+
+    <string name="greetings_welcome">Selamat Datang</string>
+    <string name="welcoming_description">Silahkan Login atau Register</string>
+
+    <string name="btn_login_text">Login</string>
+    <string name="btn_register_text">Register</string>
+
+    <!--Register Activity-->
+    <string name="register_hint_message">Register</string>
+    <string name="login_hint_message">Login</string>
+    <string name="register_username">Username</string>
+    <string name="register_email">Email</string>
+    <string name="register_hint_password">Password</string>
+
+    <string name="login_username">Username</string>
+    <string name="login_email">Email</string>
+    <string name="login_hint_password">Password</string>
+
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
