@@ -4,12 +4,41 @@
     <string name="description">Keterangan</string>
     <string-array name="data_name">
         <item>Liverpool</item>
+        <item>Inter Milan</item>
+        <item>Juventus</item>
+        <item>AC Milan</item>
+        <item>Inter Milan</item>
+        <item>Real Madrid</item>
+        <item>Atletico Madrid</item>
+        <item>France</item>
+        <item>Spain</item>
+        <item>Brazil</item>
     </string-array>
     <string-array name="data_description">
-        <item>Liverpool Retro 90/91 </item>
+        <item>Liverpool Retro</item>
+        <item>Inter Milan Retro</item>
+        <item>Juventus Retro</item>
+        <item>Ac Milan Retro</item>
+        <item>Indonesia 2004</item>
+        <item>Real Madrid Retro</item>
+        <item>Atletico Madrid Retro</item>
+        <item>France  Retro</item>
+        <item>Spain Retro</item>
+        <item>Brazil Retro</item>
+
+
     </string-array>
     <array name="data_photo">
         <item>@drawable/liverpool</item>
+        <item>@drawable/inter</item>
+        <item>@drawable/juve</item>
+        <item>@drawable/milan</item>
+        <item>@drawable/indonesia</item>
+        <item>@drawable/madrid</item>
+        <item>@drawable/atletico</item>
+        <item>@drawable/prancis</item>
+        <item>@drawable/spain</item>
+        <item>@drawable/brazil</item>
     </array>
 
     <string name="greetings_welcome">Selamat Datang</string>
@@ -32,7 +61,6 @@
     <string name="list">List</string>
     <string name="grid">Grid</string>
     <string name="logout">Logout</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 
 </resources>
